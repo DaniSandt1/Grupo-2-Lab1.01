@@ -1,4 +1,4 @@
-# 🚀 Hackatón 0 – CS2031
+# 🚀 Hackatón 0 – CS2031 
 
 ¡Bienvenidos chicos! 🎉
 Desde el curso **CS2031** les damos una cordial bienvenida e inicio de ciclo **2025-2**. Sabemos que están llenos de energía y ansiosos por comenzar a colaborar en equipo.
